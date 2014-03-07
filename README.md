@@ -9,7 +9,7 @@ require 'net/http'
 // url must end with a slash /
 puts clickjackable("http://www8355ue.sakura.ne.jp/")
 
-.. true
+.. false
 ```
 
 ## Installation
